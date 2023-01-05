@@ -9,7 +9,7 @@ Please see source code. It is not complex.
 
 ```
 Usage:
-    MobaXterm-Keygen.py <UserName> <Version>
+    mobaxterm-testprokey.py <UserName> <Version>
 
     <UserName>:      The Name licensed to
     <Version>:       The Version of MobaXterm
@@ -19,7 +19,7 @@ Usage:
 EXAMPLE:
 
 ```
-PS C:\Users\mrhenrike\Scripts\Moba> .\python3.exe MobaXterm-Keygen.py "mrhenrike" 22.1
+PS C:\Users\mrhenrike\Scripts\Moba> .\python3.exe mobaxterm-testprokey.py "mrhenrike" 22.1
 [*] Success!
 [*] File generated: C:\Users\mrhenrike\Scripts\Moba\Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
