@@ -1,8 +1,6 @@
 # MobaXterm Labs
 MobaXterm CustomProKey file generator script for License Testing.
 
-# MobaXterm Keygen
-
 ## How it work?
 
 Please see source code. It is not complex.
